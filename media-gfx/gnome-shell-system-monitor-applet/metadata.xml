@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>quent.dubost@gmail.com</email>
+    <name>Quentin DUBOST</name>
+  </maintainer>
+  <longdescription lang="en">
+    openvpn3-indicator for gnome
+  </longdescription>
+  <upstream>
+    <bugs-to>https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet/issues</bugs-to>
+  </upstream>
+
+</pkgmetadata>

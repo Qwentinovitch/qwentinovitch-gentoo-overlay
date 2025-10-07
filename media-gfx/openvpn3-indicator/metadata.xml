@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>quent.dubost@gmail.com</email>
+    <name>Quentin DUBOST</name>
+  </maintainer>
+  <longdescription lang="en">
+    openvpn3 is the next generation of OpenVPN, a full-featured SSL VPN solution which can accomodate a wide range of configurations, including remote access, site-to-site VPNs, WiFi security, and enterprise-scale remote access solutions with load balancing, failover, and fine-grained access-controls.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">OpenVPN/openvpn3</remote-id>
+    <bugs-to>https://github.com/OpenVPN/openvpn3/issues</bugs-to>
+  </upstream>
+</pkgmetadata>

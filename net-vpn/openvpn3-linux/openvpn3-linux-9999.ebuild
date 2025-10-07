@@ -25,7 +25,6 @@ DEPEND="
     ${PYTHON_DEPS}
     dev-lang/python:3.11
     dev-python/setuptools
-    dev-python/distutils
     >=dev-libs/glib-2.56
     >=dev-build/meson-0.56
     >=dev-util/ninja-1.8
